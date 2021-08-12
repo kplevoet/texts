@@ -1,0 +1,10 @@
+- Charlotte Brontë:
+	- [The professor: rejected first novel, finally appeared in 1857]
+	- Jane Eyre (1847)
+	- Shirley (1849)
+	- Villette (1853)
+- Emily Brontë:
+	- Wuthering Heights (1847)
+- Anne Brontë:
+	- Agnes Grey (1847)
+	- The Tenant of Wildfell Hall (1848)
